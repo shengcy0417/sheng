@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="guessAge.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythonCourse/guessAge.py">
+      <file leaf-file-name="shopping.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonCourse/practiceByself/shopping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="312">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -34,6 +34,14 @@
       <list>
         <option value="$PROJECT_DIR$/oatest/变量多次赋值.py" />
         <option value="$PROJECT_DIR$/oatest/testDemo/变量多次使用.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/secondSource/sys.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/secondSource/login.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/secondSource/sys_mod.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/secondSource/tuple.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/practiceByself.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/practiceByself/login.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/secondSource/list.py" />
+        <option value="$PROJECT_DIR$/pythonCourse/practiceByself/shopping.py" />
       </list>
     </option>
   </component>
@@ -61,6 +69,18 @@
               <item name="testDemo" type="462c0819:PsiDirectoryNode" />
               <item name="pythonCourse" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="practiceByself" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="secondSource" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -70,6 +90,13 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\personal\gitPra\sheng\testDemo\pythonCourse\practiceByself" />
+      <recent name="D:\personal\gitPra\sheng\testDemo\pythonCourse" />
+      <recent name="D:\personal\gitPra\sheng\testDemo\pythonCourse\firstSource" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,8 +110,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guessAge">
-    <configuration name="变量多次使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.shopping">
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,17 +119,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oatest/testDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCourse/secondSource" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oatest/testDemo/变量多次使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCourse/secondSource/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="guessAge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="testDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,24 +137,84 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCourse/secondSource" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCourse/guessAge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCourse/secondSource/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="shopping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCourse/practiceByself" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCourse/practiceByself/shopping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sys_mod" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCourse/secondSource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCourse/secondSource/sys_mod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCourse/secondSource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCourse/secondSource/tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.变量多次使用" />
-      <item itemvalue="Python.guessAge" />
+      <item itemvalue="Python.sys_mod" />
+      <item itemvalue="Python.login" />
+      <item itemvalue="Python.list" />
+      <item itemvalue="Python.tuple" />
+      <item itemvalue="Python.shopping" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.guessAge" />
-        <item itemvalue="Python.变量多次使用" />
+        <item itemvalue="Python.shopping" />
+        <item itemvalue="Python.tuple" />
+        <item itemvalue="Python.list" />
+        <item itemvalue="Python.sys_mod" />
+        <item itemvalue="Python.login" />
       </list>
     </recent_temporary>
   </component>
@@ -145,12 +232,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="200" y="38" width="1344" height="869" extended-state="0" />
+    <frame x="-8" y="-8" width="1691" height="929" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31623277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24984875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33881164" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -163,7 +252,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -172,10 +260,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/oatest/testDemo/变量多次使用.py" />
     <entry file="file://$PROJECT_DIR$/oatest/testDemo/变量多次使用.py" />
-    <entry file="file://$PROJECT_DIR$/pythonCourse/guessAge.py">
+    <entry file="file://$PROJECT_DIR$/pythonCourse/firstSource/guessAge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="175">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCourse/secondSource/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCourse/secondSource/sys_mod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCourse/secondSource/tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCourse/practiceByself/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCourse/secondSource/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCourse/practiceByself/shopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
